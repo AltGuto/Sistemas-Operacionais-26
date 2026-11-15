@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+.pytest_cache/
+logs/
+transfer/
+config.json
+config.local.*
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
